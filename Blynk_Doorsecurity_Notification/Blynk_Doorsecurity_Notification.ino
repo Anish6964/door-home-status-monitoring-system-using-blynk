@@ -2,9 +2,9 @@
 #include <ESP8266WiFi.h>
 #include <BlynkSimpleEsp8266.h>
 BlynkTimer timer;
-char auth[] = "BI1pUcGfDjGdTfOYbeKNHJ5nxxPzdOW5"; //Enter the authentication code sent by Blynk to your Email
-char ssid[] = "A50"; //Enter your WIFI SSID
-char pass[] = "mini69641"; //Enter your WIFI Password
+char auth[] = ""; //Enter the authentication code sent by Blynk to your Email
+char ssid[] = ""; //Enter your WIFI SSID
+char pass[] = ""; //Enter your WIFI Password
 int flag=0;
 
 
